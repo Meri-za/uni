@@ -1,0 +1,37 @@
+#bg{
+    background: url(../images/bg.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;  
+}
+.contacts {
+    text-align: center;
+    color: #D3D3D3;
+    padding-left: 35%;
+    padding-top: 12%;
+}
+input {
+  width: 40%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid #FFA500;
+  border-radius: 4px;
+}
+textarea {
+  width: 40%;
+  height: 150px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #FFA500;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  font-size: 16px;
+  resize: none;
+}
+#bg_msg{
+  background-color: #FFA500;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;  
+}
